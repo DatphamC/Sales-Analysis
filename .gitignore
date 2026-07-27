@@ -1,0 +1,16 @@
+# File gộp sinh ra khi chạy Task 1 (16MB) — notebook tự tạo lại
+Data/sales2019_all.csv
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
